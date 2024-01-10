@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">qimo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">主页</string>
+    <string name="menu_gallery">最新上映</string>
+    <string name="menu_slideshow">即将上映</string>
+    <string name="menu_top25">欧美排行</string>
+    <string name="menu_collect">我的收藏</string>
+    <string name="menu_setings">系统设置</string>
+    <string name="line_setting">设置</string>
+
+    <string name="header_titile">小戚同学</string>
+    <string name="header_subtitle">一个小吃货</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
